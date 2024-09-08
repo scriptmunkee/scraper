@@ -1,0 +1,632 @@
+<iframe
+height="0" width="0" style="display:none;visibility:hidden" data-lazy-src="https://www.googletagmanager.com/ns.html?id=GTM-W5NXSDV" data-lazy-method="viewport" data-lazy-attributes="src"></iframe>
+
+
+
+
+
+						
+		
+		Home
+
+		
+		SEOProfessional SEO ServicesTopical AuthorityTopic ClustersE-Commerce
+
+		
+		Case Studies
+
+		
+		About Us
+
+		
+		Blog
+
+		
+		Contact
+
+		
+
+		Book a FREE SEO call
+		
+
+		
+		SEOLet us help you rank better - and help the planet in the process.4.965 reviews
+		0%
+
+		average yearly organic traffic increase achieved for our clients
+		0
+
+		month average time it takes us to increase rankings in a noticeable way for new campaigns
+		0%
+
+		after only three months average increase in first page keyword rankings4.965 reviewsour TYPICAL campaign flowLISTENWe work closely with our clients to ensure that their website’s traffic increases and that their brand grows. Whatever your business’ goals are, we can use SEO to help achieve them. RESEARCHWe extensively research your brand and your niche throughout our keyword research process, so we can provide you with recommendations that will help your brand flourish.IMPLEMENTWe implement both technical and content improvements on your website with the aim to increase traffic and sales to your site.MEASUREWe check and measure our client’s progress every week to ensure that our campaigns are growing in the right direction.IMPROVEWe implement both technical and content improvements on your website with the aim to increase traffic and sales to your site.
+		0%
+
+		USERS ARE MORE LIKELY TO CLICK ON AN ORGANIC LISTING THAN A PAID ONE
+		0%
+
+		IS THE AVERAGE SEO CONVERSION RATE
+		0%
+
+		of shoppers use Google to discover a new item or productReady to take the next step?Talk to usOur SEO RESULTS FOR ACRE: SUSTAINABILITY RECRUITMENTListening to our client needs has enabled us to get familiarised in a very short time with the professional services industry. This has made the research phase of the process laser focused, and paired with our award winning SEO strategies, we've been able to:- increase traffic by 72% from 16.3k clicks to an amazing 22k clicks.- we've increased our client exposure on the SERP by 85% from 314k to 582k.These results in the span of only 3 months have been made possible by our emphasis on understanding the industry and not least being able to monitor, measure and improve our client's SEO campaign.Talk to usHOW DO WE DO IT?ListenResearchImplementMeasureImproveWEBSITE AUDITImprove your search ranking and achieve more traffic to your website. Our audits are designed to analyse every inch of your website to highlight any issues and warnings that need immediate fixes.KEYWORD AND COMPETITORS ANALYSISKeyword research forms the foundation of our SEO strategies. Using our in-house tools, we segment hundreds of thousands of keywords, analysing on a deep level to identify keyword combinations and long-tail keyword variations.CAMPAIGN MEASURING & REPORTINGYou’ll be provided with a customised reporting dashboard that tracks real-time data from a range of sources.STRATEGY PLANNING & IMPLEMENTATIONWe plan and implement steps designed to improve organic search engine rankings.Our staff have been published on:Book a free SEO consultation callArrange a free, no strings attached SEO consultation. We’ll look at your site and respond to your specific questions on a 20 minute call. If you’d like to work together after that, great. If not, no hard feelings. We’re happy to help and take a chance!
+                    Contact FormYour nameEmail addressYour Phone NumberHow can we help?Submit        
+            window.fluent_form_ff_form_instance_1_1 = {"id":"1","settings":{"layout":{"labelPlacement":"top","helpMessagePlacement":"with_label","errorMessagePlacement":"inline","cssClassName":"","asteriskPlacement":"asterisk-right"},"restrictions":{"denyEmptySubmission":{"enabled":false}}},"form_instance":"ff_form_instance_1_1","form_id_selector":"fluentform_1","rules":{"names[first_name]":{"required":{"value":true,"message":"This field is required"}},"names[middle_name]":{"required":{"value":false,"message":"This field is required"}},"names[last_name]":{"required":{"value":false,"message":"This field is required"}},"email":{"required":{"value":true,"message":"This field is required"},"email":{"value":true,"message":"This field must contain a valid email"}},"subject":{"required":{"value":true,"message":"This field is required"}},"message":{"required":{"value":true,"message":"This field is required"}}}};
+                    
+        WE CREATE SEO Designed to help repair the planet.4.965 reviewsWHY ARE WE BETTER?We strive to deliver tangible SEO results within the first month of working together. Our campaigns focus on the revenue SEO generates, not just the rankings.UNIQUE SEO APPROACHRobotZebra is defined by our outstanding approach to SEO problems. We are robot-like in our efficiency and detail-oriented approach, but we also are a company which finds creative, individual solutions for all your SEO needs. We do not use a one-size fits all approach for our clients, and instead we craft our processes specifically for your business.EXPERT BUSINESS TAILORINGSince all of our SEO approaches are perfectly crafted for the business in mind, we are able to tackle any issues that arise. Our team specialises in finding creative solutions to resolve any potential problems. We then adapt our approach and utilise specialist software to target your SEO’s issues.FREQUENT TESTINGWith our bespoke SEO strategies, we ensure that you are always kept up to date with your campaign’s latest developments. We frequently test new changes and elements on your website to make sure that we can quickly make sure our approach is working for your business.COMPREHENSIVE TECHNICAL SEO AUDITSCreating high quality technical audits is one of the areas where we thrive. All technical audits are built in order of priority and maximum impact to provide you with actionable insights which will actually move the needle. If you have lost visibility, we can analyse the problem to help you find the underlying reasons for any drops and issues. This type of detective work is what we cherish the most in our SEO careers.WHITE LABELLINGWe provide a variety of white label SEO services that can support your company and impress your clients. Our staff have experience in building out SEO processes, upskilling internal teams and providing reports and documentation in a white label fashion, whether it comes to monthly on page recommendations or reporting. We have systems and processes to review traffic drops and suggest changes that will recover your rankings and sales.GOOD KEYWORD RESEARCHWe use a modern approach to keyword research that is comprehensive yet efficient. We collect keywords from your competitors, past PPC campaigns, Google Search Console and a few secret tools we use (not so secret once we work together). This allows us to present you with a strong selection of keywords for potential quick wins and long term targets. We've helped hundreds of companies overcome challenges that new Google Algorithm updates present.Ready to take the next step?Talk to usCASE STUDIESSEO FOR RECRUITMENT SERVICESDespite the very competitive nature of the Legal Recruitment space, by applying our core principles and our award winning SEO strategies, we have achieved a 374% increase in traffic which is bringing a stable flow enquiries.SEO FOR PROFESSIONAL SERVICESIn a fast growing and overcrowded space such as the cleaning sector, it’s more important than ever to have strict KPIs and be proactive by constantly monitoring the SEO campaign performance and producing high quality content that converts.Have an informal chat.Talk to usWhat is SEO?AN AWARDS WINNING SUSTAINABILITY-FOCUSED DIGITAL MARKETING AGENCYWebsite optimisation stands for strategies and techniques used to increase the number of visitors to a website. The goal is to gain an advanced rank on the search engine to acquire more website visits.WHAT IS SEO FOR BUSINESS?SEO leads to long-term exponential growth. Brands that invest in SEO build credibility and trust with audiences, making it a pivotal part of a marketing strategy.what are our SEO specialties?RECRUITMENT SERVICESPROFESSIONAL SERVICESE-commerceSUSTAINABILITYFINANCIAL SERVICESMOST COMMON SEO QUESTIONS
+		
+              What is SEO?SEO stands for Search Engine Optimisation. It's a process of improving websites in order to drive more visits, visibility and conversions via search engines such as Google.
+
+		
+		
+              Why is SEO important?SEO provides businesses with much needed visibility in order to attract customers. 87% of shoppers begin their searches for products online. SEO can be the difference between a customer choosing your business over a competitors’.
+
+		
+		
+              How long does it take to start seeing results?SEO can take a long time. With some sites, you can see results in the first few weeks, but in some cases it can take months. However, once you start seeing results, your organic search traffic should start increasing steadily.
+
+		
+		
+              Which is better, SEO or PPC?SEO and PPC are both valuable methods of driving traffic to your webpage. However, SEO has been shown to be the best long term marketing strategy for businesses online. While SEO results are not instant like PPC, investing in good quality SEO will improve your long term ROI where PPC falls short.
+
+		
+		
+              What does RobotZebra stand for as an SEO agency?We make sure that the time you pay for is used in the most effective manner possible by using our inhouse TrueTime metric and automation, combined with creative approaches to SEO strategy and tactics.
+
+		
+		
+              What makes RobotZebra better than its competitors?Our team has had experience with managing highly successful SEO campaigns for corporations, startups and SMEs for over 14 years. What’s more, we don’t just deliver results, we overdeliver. You can see proof of this in our reviews and testimonials.
+
+		
+		
+              How often will we speak to you?We will schedule weekly video call meetings to update you on how your SEO strategy is performing. We’d love to have face-to-face meetings, but in the current world of social distancing, that isn’t always so easy!
+
+		
+		
+              How can I start working with RobotZebra?Drop us a message by email or through the contact us form. Alternatively, give us a call and we can start discussing how we can improve your business’ SEO strategy!
+
+		What Our Clients Say
+		"I couldn't recommend RobotZebra more if I tried. The team are a fountain of knowledge, always providing us with informed, tailored recommendations and solutions. In turn, this has enabled us to measurably improve our SEO performance over the last four years. Whether they're simply making us aware of a Google update and how it might impact our performance, or helping us implement direct improvements on our website, they're always on the ball and up to date. They take a genuinely consultative approach, putting in time to understand our needs and advising accordingly. Beyond that, they're a genuine pleasure to work with."Google ReviewsSean Desouza Interim Head of Marketing at Acre "I found Robert Zebra to be a professional, skilful, and helpful SEO service company. They were able to help us improve website's ranking in search engines and get more traffic for our business. They were also able to help us with troubleshoot some technical issues we were having. I would recommend their services to anyone who needs help with their website's SEO."Google ReviewsLanre E. OladejoDigital Marketing Manager"RobotZebra are an exceptional team who executed top tier SEO campaigns for Fibex. They went above and beyond to help us meet and exceed our SEO targets. Their expert knowledge was invaluable, and everyone was lovely to work with. I highly recommend to anyone looking to improve their SEO."Google ReviewsIndia Haughty Digital Marketing Executive at Mazak Europe "RobotZebra is an amazing partner and, even more importantly, the guys and girls working there are absolutely incredible. Not only they helped us reach our objectives with great work ethic but they have always gone out of their ways to support us. I highly recommend them to anyone."Google ReviewsAndrea DemichelisFounder at Elliot For Water
+
+		Book a free SEO consultation callArrange a free, no strings attached SEO consultation. We’ll look at your site and respond to your specific questions on a 20 minute call. If you’d like to work together after that, great. If not, no hard feelings. We’re happy to help and take a chance!
+                    Contact FormYour nameEmail addressYour Phone NumberHow can we help?Submit        
+            window.fluent_form_ff_form_instance_1_2 = {"id":"1","settings":{"layout":{"labelPlacement":"top","helpMessagePlacement":"with_label","errorMessagePlacement":"inline","cssClassName":"","asteriskPlacement":"asterisk-right"},"restrictions":{"denyEmptySubmission":{"enabled":false}}},"form_instance":"ff_form_instance_1_2","form_id_selector":"fluentform_1","rules":{"names[first_name]":{"required":{"value":true,"message":"This field is required"}},"names[middle_name]":{"required":{"value":false,"message":"This field is required"}},"names[last_name]":{"required":{"value":false,"message":"This field is required"}},"email":{"required":{"value":true,"message":"This field is required"},"email":{"value":true,"message":"This field must contain a valid email"}},"subject":{"required":{"value":true,"message":"This field is required"}},"message":{"required":{"value":true,"message":"This field is required"}}}};
+                    
+        More InformationHomeAbout usSustainabilityContactCarbon OffsettingAI in SEOGoogle’s Generative AIServices
+		Macaroni SEO For ShopifyTechnical SEOOn Page SEOLocal SEOSEO AuditsGoogle Penalty RecoveryWebsite MigrationsShopify SEOWix SEOWordPress SEOOff-Page SEOSEO Content WritingMORE SERVICES
+
+		Industries
+		SEO for eCommerceSEO for Financial ServicesSEO for Professional ServicesSEO for Recruitment AgenciesWhite Label SEOOur SEO packagesSEO for Law FirmsSEO for Estate AgentsSEO for DentistsSEO for AutomotiveSEO for CryptocurrencySEO for Insurance CompaniesSEO for Construction CompaniesSEO for EnterprisesSEO for Wedding Venues LondonInternational SEOSEO for AccountantsSEO for Interior DesignersSEO for EngineeringSEO for Gyms & FitnessSEO for Technology CompaniesSEO for Cleaning Companies 	SEO Training London 	SEO for Retail Websites London 	SEO for Limo Companies London 	SEO Agency For Fintech & Crypto FirmsSaaS SEO Agency LondonSEO Agency for NFTs LondonMore industries
+
+		Visit our FacebookVisit our InstagramVisit our TwitterVisit our LinkedInRobotZebra, 3rd Floor, 86-90 Paul Street, London EC2A 4NE | VAT number: 358331491 | company reg number: 12873169 | Cookie Policy | Privacy Policy | Terms of use | +44 (0) 7455 183193	
+
+
+.ct-FontAwesomeicon-star{width:0.92857142857143em}
+.ct-FontAwesomeicon-play{width:0.78571428571429em}
+.ct-FontAwesomeicon-angle-up{width:0.64285714285714em}
+.ct-FontAwesomeicon-angle-down{width:0.64285714285714em}
+.ct-FontAwesomeicon-whatsapp{width:0.85714285714286em}
+.ct-FontAwesomeicon-question-circle-o{width:0.85714285714286em}
+starplayangle-upangle-downwhatsappquestion-circle-ochevron-downchevron-left-circlechevron-right-circle
+            
+            
+            jQuery(document).ready(oxygen_init_burger);
+            function oxygen_init_burger($) {
+                
+                $('.oxy-burger-trigger').each(function( i, OxyBurgerTrigger ) {
+                    
+                    let touchEventOption =  $( OxyBurgerTrigger ).children('.hamburger').data('touch');
+                    let touchEvent = 'ontouchstart' in window ? touchEventOption : 'click';     
+                    
+                    // Close hamburger when element clicked 
+                    $( OxyBurgerTrigger ).on( touchEvent, function(e) {    
+                        
+                        e.stopPropagation();
+
+                        // Check user wants animations
+                        if ($(this).children( '.hamburger' ).data('animation') !== 'disable') {
+                            $(this).children( '.hamburger' ).toggleClass('is-active');
+                        }
+                        
+                    } );
+                    
+                } );
+                
+                
+                
+                // For listening for modals closing to close the hamburger
+                var className = 'live';
+                var target = document.querySelectorAll(".oxy-modal-backdrop[data-trigger='user_clicks_element']");
+                for (var i = 0; i < target.length; i++) {
+
+                    // create an observer instance
+                    var observer = new MutationObserver(function(mutations) {
+                        mutations.forEach(function(mutation) {
+                            
+                            // When the style changes on modal backdrop
+                            if (mutation.attributeName === 'style') {
+
+                                // If the modal is live and is closing  
+                                if(!mutation.target.classList.contains(className)){
+
+                                    // Close the toggle
+                                    closeToggle(mutation.target);
+
+                                }
+                            }  
+                        });
+                    });
+
+                    // configuration of the observer
+                    var config = { 
+                        attributes: true,
+                        attributeFilter: ['style'],
+                        subtree: false
+                    };
+
+                    // pass in the target node, as well as the observer options
+                    observer.observe(target[i], config);
+                }
+                
+                
+               // Helper function to close hamburger if modal closed.
+                function closeToggle(elem) {
+                    
+                    var triggerSelector = $($(elem).data('trigger-selector'));
+                    
+                    // Abort if burger not being used as the trigger or animations not turned on
+                    if ((!triggerSelector.hasClass('oxy-burger-trigger')) || (triggerSelector.children( '.hamburger' ).data('animation') === 'disable') ) {
+                        return;
+                    }
+                    // Close that particular burger
+                    triggerSelector.children('.hamburger').removeClass('is-active');
+                    
+                }
+                
+                
+            } 
+
+    form.fluent_form_1 .ff-btn-submit:not(.ff_btn_no_style) { background-color: #409EFF; color: #ffffff; }        
+            jQuery(document).ready(oxygen_init_accordion);
+            function oxygen_init_accordion($) {
+                
+                // check if supports touch, otherwise it's click:
+                let touchEvent = 'ontouchend' in window ? 'click' : 'click';  
+
+                let extrasAccordion = function ( container ) {
+                    
+                $(container).find('.oxy-pro-accordion').each(function(){
+                    
+                    var $accordion = $(this);
+                    var disable_sibling = $accordion.find('.oxy-pro-accordion_inner').data('disablesibling');
+
+                    if ( 'manual' === $(this).find('.oxy-pro-accordion_inner').data('type') ) {
+                        
+                        var $accordion_header = $accordion.find('.oxy-pro-accordion_header');
+                        var $accordion_item = $accordion.find('.oxy-pro-accordion_item');
+                        var $accordion_body = $accordion.find('.oxy-pro-accordion_body');
+                        var $speed = $accordion.find('.oxy-pro-accordion_inner').data('expand');
+                        var mediaPlayer = $accordion.parent().children('.oxy-pro-accordion').find('.oxy-pro-media-player vime-player');
+                        var accordionID = '#' + $accordion.attr('id');
+                        
+                        if (true === $accordion.find('.oxy-pro-accordion_inner').data('repeater')) {
+                            $accordion.closest('.oxy-dynamic-list').children('.ct-div-block').attr('data-counter', 'true');
+                            $accordion.attr('data-counter', 'false');
+                        }
+                        
+                        $accordion_header.on(touchEvent, function() {
+
+                            $accordion_item.toggleClass('active');
+                            $accordion_body.slideToggle($speed);
+                            $accordion.trigger('extras_pro_accordion:toggle');
+                            $accordion_header.attr('aria-expanded', function (i, attr) {
+                                                        return attr == 'true' ? 'false' : 'true'
+                                                    });
+                                                    
+                            if (true !== disable_sibling) {
+
+                                /* Sibling */
+                                if (false === disable_sibling) {
+
+                                    if (!$accordion.siblings('.oxy-pro-accordion').length && ($accordion.closest('.oxy-dynamic-list').length) ) {
+                                        $accordion_item_active_sibling = $accordion.closest('.oxy-dynamic-list > .ct-div-block').siblings('.ct-div-block').find('.oxy-pro-accordion').children('.oxy-pro-accordion_inner[data-type=manual]').children('.oxy-pro-accordion_item.active')
+                                    } else {
+                                        $accordion_item_active_sibling = $accordion.siblings('.oxy-pro-accordion').children('.oxy-pro-accordion_inner[data-type=manual]').children('.oxy-pro-accordion_item.active');
+                                    }
+
+                                } else {  /* Container */
+                                    $accordion_item_active_sibling = $(disable_sibling).find('.oxy-pro-accordion').not(accordionID).children('.oxy-pro-accordion_inner[data-type=manual]').children('.oxy-pro-accordion_item.active');
+                                }    
+                                    
+                                $accordion_item_active_sibling.find('.oxy-pro-accordion_body').slideUp($speed);
+                                $accordion_item_active_sibling.find('.oxy-pro-accordion_header').attr('aria-expanded', function (i, attr) {
+                                                            return attr == 'true' ? 'false' : 'true'
+                                                        });
+
+                                $accordion_item_active_sibling.removeClass('active');
+
+                            }
+
+                            $accordion.trigger('extras_pro_accordion:toggle');
+                            
+                            mediaPlayer.each(function() {
+                                $(this)[0].pause();
+                            });
+                            
+                        });
+                        
+                    } else {
+                        
+                        var $accordion_item = $accordion.find('.oxy-pro-accordion_item');
+                        var $accordion_item_first = $accordion_item.first();
+                        var $accordion_first_open = $accordion.children('.oxy-pro-accordion_inner').data('acf');
+                        var $speed = $accordion.find('.oxy-pro-accordion_inner').data('expand');
+                        
+                        
+                        if ( 'closed' !== $accordion_first_open ) {
+                            
+                            $accordion_item_first.addClass('active');
+                            $accordion_item_first.children('.oxy-pro-accordion_body').show();
+                            $accordion_item_first.children('.oxy-pro-accordion_header').attr('aria-expanded', 'true');
+                        }
+                        
+                        $accordion_item.each(function(){
+                            
+                            var $item = $(this);
+                            var $accordion_header = $item.find('.oxy-pro-accordion_header');
+                            var $accordion_body = $item.find('.oxy-pro-accordion_body');
+                            
+                            $accordion_header.on(touchEvent, function() {
+                            
+                                $item.toggleClass('active');
+                                $accordion_body.slideToggle($speed);
+                                $accordion_header.attr('aria-expanded', function (i, attr) {
+                                                        return attr == 'true' ? 'false' : 'true'
+                                                    });
+
+                                if (true !== disable_sibling) {
+                                    $item.siblings('.oxy-pro-accordion_item.active').find('.oxy-pro-accordion_body').slideUp($speed);
+                                    $item.siblings('.oxy-pro-accordion_item.active').removeClass('active');
+                                    $item.siblings('.oxy-pro-accordion_item').find('.oxy-pro-accordion_header').attr('aria-expanded', 'false');
+                                }
+
+                            });
+                            
+                        });
+                        
+                        
+                    }
+                    
+                });
+
+                }
+                
+                extrasAccordion('body');
+                
+                // Expose function
+                window.doExtrasAccordion = extrasAccordion;
+                    
+            };
+
+            
+
+    form.fluent_form_1 .ff-btn-submit:not(.ff_btn_no_style) { background-color: #409EFF; color: #ffffff; }            
+            
+            jQuery(document).ready(oxygen_init_readmore);
+            function oxygen_init_readmore($) {
+                
+               let extrasReadmore = function ( container ) {
+                    
+                    $(container).find('.oxy-read-more-inner').each(function(i, oxyReadMore){
+
+                        let readMore = $(oxyReadMore),
+                            readMoreID = readMore.attr('ID'),
+                            openText = readMore.data( 'open' ),
+                            closeText = readMore.data( 'close' ),
+                            speed = readMore.data( 'speed' ),
+                            heightMargin = readMore.data( 'margin' ), 
+                            icon = ('enable' === readMore.data( 'icon' )) ? '<span class="oxy-read-more-link_icon"><svg class="oxy-read-more-link_icon-svg"><use xlink:href="#' + readMore.data( 'iconopen' ) + '"></use></svg></span>' : '',
+
+                            moreText = '<a href=# class=oxy-read-more-link><span class="oxy-read-more-link_text">' + openText + '</span>' + icon +'</a>',
+                            lessText = '<a href=# class=oxy-read-more-link><span class="oxy-read-more-link_text">' + closeText + '</span>' + icon +'</a>';
+
+                            readMore.attr('id', readMoreID + '_' + i);
+                        
+                            if ($(oxyReadMore).closest('.oxy-dynamic-list').length) {
+                                readMore.attr('id', readMoreID + '_' + $(oxyReadMore).closest('.oxy-dynamic-list > .ct-div-block').index() + 1);
+                            }
+                    
+                        function doReadMore() {
+
+                            new Readmore(readMore, {
+                                  speed: speed,
+                                  moreLink: moreText,
+                                  lessLink: lessText,
+                                  embedCSS: false,
+                                  collapsedHeight: parseInt(readMore.css('max-height')),
+                                  heightMargin: heightMargin,
+                                  beforeToggle: function(trigger, element, expanded) {
+                                    if(!expanded) { // The "Close" link was clicked
+                                      $(element).addClass('oxy-read-more-less_expanded');
+                                      readMore.parent('.oxy-read-more-less').trigger('extras_readmore:expand');
+                                    } else {  
+                                      $(element).removeClass('oxy-read-more-less_expanded');
+                                      readMore.parent('.oxy-read-more-less').trigger('extras_readmore:collapse');
+                                    }
+                                  },
+                                  afterToggle: function(trigger, element, expanded) {
+                                    if(expanded) {
+                                        readMore.parent('.oxy-read-more-less').trigger('extras_readmore:expanded');
+                                    } else {
+                                        readMore.parent('.oxy-read-more-less').trigger('extras_readmore:collapsed');
+                                    }
+                                  },
+                                  blockProcessed: function(element, collapsable) {
+                                    if(! collapsable) {
+                                     readMore.addClass('oxy-read-more-less_not-collapsable');
+                                     readMore.parent('.oxy-read-more-less').find('.oxy-read-more-link').remove();
+                                    }
+                                  }
+                                });
+
+                                $('.oxy-read-more-link + .oxy-read-more-link').remove();
+
+                            }
+
+                        doReadMore();
+
+                        if (readMore.closest('.oxy-tabs-contents').length) {
+                            $('.oxy-tab').on('click', function() {
+                                readMore.css('max-height', '')
+                                setTimeout(function() {
+                                    doReadMore();
+                                    readMore.siblings('.oxy-read-more-link + .oxy-read-more-link').remove();
+                                    window.dispatchEvent(new Event('resize'));
+                                }, 10);
+                            });
+                        }
+
+                        if (readMore.closest('.oxy-pro-accordion').length) {
+                            readMore.closest('.oxy-pro-accordion').on('extras_pro_accordion:toggle', function() {
+                                doReadMore();
+                                readMore.siblings('.oxy-read-more-link + .oxy-read-more-link').remove();
+                            });
+                        }
+
+                    }); 
+                    
+                    window.dispatchEvent(new Event('resize'));
+
+                    /* Force resize again after everything loaded (for Safari fix) */
+                    jQuery(window).on('load', function(){
+                        setTimeout(function(){
+                            window.dispatchEvent(new Event('resize'));
+                        }, 1000);
+                    });
+                    
+                }
+                
+                extrasReadmore('body');
+                
+                // Expose function
+                window.doExtrasReadmore = extrasReadmore;
+                
+                
+            }
+        
+    
+		
+		   
+		      
+		         linkedin
+		         
+		         
+		         
+		      
+		      
+		         facebook
+		         
+		      
+		      
+		         pinterest
+		         
+		      
+		      
+		         youtube
+		         
+		      
+		      
+		         rss
+		         
+		      
+		      
+		         twitter
+		         
+		      
+		      
+		         instagram
+		         
+		         
+		         
+		      
+		      
+		         facebook-blank
+		         
+		      
+		      
+		         rss-blank
+		         
+		      
+		      
+		         linkedin-blank
+		         
+		      
+		      
+		         pinterest
+		         
+		      
+		      
+		         youtube
+		         
+		      
+		      
+		         twitter
+		         
+		      
+		      
+		         instagram
+		         
+		         
+		         
+		      
+		   
+		
+	
+	
+
+	
+				
+                                                        English
+			
+
+
+
+
+
+/* <![CDATA[ */
+wpa_field_info = {"wpa_field_name":"hrqqco4816","wpa_field_value":894310,"wpa_add_test":"no"}
+/* ]]> */
+
+
+
+
+/* <![CDATA[ */
+window._$W = window;addEventListener("DOMContentLoaded",()=>{document.body.style.overflowX="hidden";gsap.registerPlugin({name:"transition",init(t,e,r){return this.target=t,this.tween=r,this.reverting=gsap.core.reverting||function(){},!!t.style},render(t,{target:e,tween:r,reverting:i}){e.style.transition=(1===r.progress()||!r._time&&i())&&"isFromStart"!==r.data?"":"unset"}});gsap.defaults({duration:1,transition:"unset"});gsap.config({nullTargetWarn:false});if(!matchMedia("(prefers-reduced-motion: reduce)").matches){window._mp_1656489003=gsap.timeline({scrollTrigger:{trigger:".basic-animation",start:"top 60%",end:"bottom 15%",once:true,}});_mp_1656489003.from(".feature",{"stagger":{"from":"start","each":0.5},"autoAlpha":0,"yPercent":25,"duration":1.1},0);window._mp_1656662099=[];gsap.utils.toArray(".zebra-container-regular").forEach((item)=>{const _n="_mp_1656662099_"+(_mp_1656662099.length+1);_mp_1656662099.push(_n);const _t=gsap.timeline({scrollTrigger:{trigger:item.closest(".zebra-container-regular"),start:"top 65%",end:"bottom 15%",once:true,}}).fromTo(item.querySelectorAll([".logo-animation"]),{"autoAlpha":0},{"stagger":{"from":"start","each":0.3},"autoAlpha":1},0);window[_n]=_t;});window._mp_1656664340=[];gsap.utils.toArray(".tools").forEach((item)=>{const _n="_mp_1656664340_"+(_mp_1656664340.length+1);_mp_1656664340.push(_n);const _t=gsap.timeline({scrollTrigger:{trigger:item.closest(".tools"),start:"top 65%",end:"bottom 15%",once:true,}}).fromTo(item.querySelectorAll([".logo-animation"]),{"autoAlpha":0},{"stagger":{"from":"start","each":0.3},"autoAlpha":1},0);window[_n]=_t;});window._mp_1656664445=[];gsap.utils.toArray(".footer-logos").forEach((item)=>{const _n="_mp_1656664445_"+(_mp_1656664445.length+1);_mp_1656664445.push(_n);const _t=gsap.timeline({scrollTrigger:{trigger:item.closest(".footer-logos"),start:"top 85%",end:"bottom 15%",once:true,}}).fromTo(item.querySelectorAll([".zebra-footer__logo"]),{"autoAlpha":0},{"stagger":{"from":"start","each":0.3},"autoAlpha":1},0);window[_n]=_t;});window._mp_1656670791=[];gsap.utils.toArray("#section-awards").forEach((item)=>{const _n="_mp_1656670791_"+(_mp_1656670791.length+1);_mp_1656670791.push(_n);const _t=gsap.timeline({scrollTrigger:{trigger:item.closest("#section-awards"),start:"top 65%",end:"bottom 15%",once:true,}}).fromTo(item.querySelectorAll([".awards-logos"]),{"autoAlpha":0},{"stagger":{"from":"start","each":0.3},"autoAlpha":1},0);window[_n]=_t;});window._mp_1656954536=[];gsap.utils.toArray("#flow").forEach((item)=>{const _n="_mp_1656954536_"+(_mp_1656954536.length+1);_mp_1656954536.push(_n);const _t=gsap.timeline({scrollTrigger:{trigger:item.closest("#flow"),start:"top 65%",end:"bottom 15%",once:true,}}).fromTo(item.querySelectorAll([".campaign-flow"]),{"rotation":-180,"autoAlpha":0},{"rotation":0,"ease":"back","autoAlpha":1,"duration":1.5},0);window[_n]=_t;});window._mp_1656954827=[];gsap.utils.toArray(".how-dots").forEach((item)=>{const _n="_mp_1656954827_"+(_mp_1656954827.length+1);_mp_1656954827.push(_n);const _t=gsap.timeline({scrollTrigger:{scrub:1,trigger:item.closest(".how-dots"),start:"top 90%",end:"bottom 10%",}}).fromTo(item.querySelectorAll([".how-line"]),{"autoAlpha":0,"yPercent":-100},{"autoAlpha":1,"yPercent":0,"duration":1.1},0).fromTo(item.querySelectorAll([".dot-1"]),{"autoAlpha":0},{"autoAlpha":1,"yPercent":0,"duration":0.2},0).fromTo(item.querySelectorAll([".dot-2"]),{"autoAlpha":0},{"autoAlpha":1,"yPercent":0,"duration":0.2},0.2).fromTo(item.querySelectorAll([".dot-3"]),{"autoAlpha":0},{"autoAlpha":1,"yPercent":0,"duration":0.2},0.4).fromTo(item.querySelectorAll([".dot-4"]),{"autoAlpha":0},{"autoAlpha":1,"yPercent":0,"duration":0.2},0.6).fromTo(item.querySelectorAll([".dot-5"]),{"autoAlpha":0},{"autoAlpha":1,"yPercent":0,"duration":0.2},0.8).fromTo(item.querySelectorAll([".how-text-1"]),{"autoAlpha":0},{"autoAlpha":1,"yPercent":0,"duration":0.2},0).fromTo(item.querySelectorAll([".how-text-2"]),{"autoAlpha":0},{"autoAlpha":1,"yPercent":0,"duration":0.2},0.2).fromTo(item.querySelectorAll([".how-text-3"]),{"autoAlpha":0},{"autoAlpha":1,"yPercent":0,"duration":0.2},0.4).fromTo(item.querySelectorAll([".how-text-4"]),{"autoAlpha":0},{"autoAlpha":1,"yPercent":0,"duration":0.2},0.6).fromTo(item.querySelectorAll([".how-text-5"]),{"autoAlpha":0},{"autoAlpha":1,"yPercent":0,"duration":0.2},0.8);window[_n]=_t;});window._mp_1657028894=[];gsap.utils.toArray(".featured").forEach((item)=>{const _n="_mp_1657028894_"+(_mp_1657028894.length+1);_mp_1657028894.push(_n);const _t=gsap.timeline({scrollTrigger:{trigger:item.closest(".featured"),start:"top 65%",end:"bottom 15%",once:true,}}).fromTo(item.querySelectorAll([".featured img"]),{"autoAlpha":0},{"stagger":{"from":"start","each":0.3},"autoAlpha":1},0);window[_n]=_t;});window._mp_1657544368=gsap.timeline({scrollTrigger:{scrub:1,trigger:".infographic",start:"top 60%",end:"bottom 100%",}});_mp_1657544368.fromTo(".info-1",{"autoAlpha":0,"yPercent":80},{"autoAlpha":1,"yPercent":0,"duration":0.2},0);_mp_1657544368.fromTo(".info-2",{"autoAlpha":0,"yPercent":100},{"autoAlpha":1,"yPercent":0,"duration":0.2},0.2);_mp_1657544368.fromTo(".info-3",{"autoAlpha":0,"yPercent":100},{"autoAlpha":1,"yPercent":0,"duration":0.2},0.4);_mp_1657544368.fromTo(".info-4",{"autoAlpha":0,"yPercent":80},{"autoAlpha":1,"yPercent":0,"duration":0.2},0.6);window._mp_1657545817=gsap.timeline({scrollTrigger:{trigger:"#div_block-777-436",start:"top 85%",end:"bottom 15%",once:true,}});_mp_1657545817.fromTo(".special-1",{"autoAlpha":0},{"autoAlpha":1,"duration":0.6},0);_mp_1657545817.fromTo(".special-2",{"autoAlpha":0},{"autoAlpha":1,"duration":0.6},0.6);_mp_1657545817.fromTo(".special-3",{"autoAlpha":0},{"autoAlpha":1,"duration":0.6},1.2);_mp_1657545817.fromTo(".special-4",{"autoAlpha":0},{"autoAlpha":1,"duration":0.6},1.8);_mp_1657545817.fromTo(".special-5",{"autoAlpha":0},{"autoAlpha":1,"duration":0.6},2.4);window._mp_1657630731=gsap.timeline({scrollTrigger:{scrub:1,trigger:"#div_block-646-436",start:"top 90%",end:"bottom 100%",}});_mp_1657630731.fromTo(".what-is-1",{"autoAlpha":0,"yPercent":-100},{"autoAlpha":1,"yPercent":0},0);_mp_1657630731.fromTo(".what-is-2",{"autoAlpha":0,"yPercent":-100},{"autoAlpha":1,"yPercent":0},0);}_$W._mp_refresher=(t=0)=>{ScrollTrigger&&setTimeout((()=>{ScrollTrigger.sort(),ScrollTrigger.getAll().forEach((r=>r.refresh()))}),t)},addEventListener("load",(()=>_mp_refresher(92)));});
+/* ]]> */
+
+
+/* <![CDATA[ */
+var fluentFormVars = {"ajaxUrl":"https:\/\/robotzebra.agency\/wp-admin\/admin-ajax.php","forms":[],"step_text":"Step %activeStep% of %totalStep% - %stepTitle%","is_rtl":"","date_i18n":{"previousMonth":"Previous Month","nextMonth":"Next Month","months":{"shorthand":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"longhand":["January","February","March","April","May","June","July","August","September","October","November","December"]},"weekdays":{"longhand":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"shorthand":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]},"daysInMonth":[31,28,31,30,31,30,31,31,30,31,30,31],"rangeSeparator":" to ","weekAbbreviation":"Wk","scrollTitle":"Scroll to increment","toggleTitle":"Click to toggle","amPM":["AM","PM"],"yearAriaLabel":"Year","firstDayOfWeek":1},"pro_version":"","fluentform_version":"5.1.11","force_init":"","stepAnimationDuration":"350","upload_completed_txt":"100% Completed","upload_start_txt":"0% Completed","uploading_txt":"Uploading","choice_js_vars":{"noResultsText":"No results found","loadingText":"Loading...","noChoicesText":"No choices to choose from","itemSelectText":"Press to select","maxItemText":"Only %%maxItemCount%% options can be added"},"input_mask_vars":{"clearIfNotMatch":false}};
+var fluentFormVars = {"ajaxUrl":"https:\/\/robotzebra.agency\/wp-admin\/admin-ajax.php","forms":[],"step_text":"Step %activeStep% of %totalStep% - %stepTitle%","is_rtl":"","date_i18n":{"previousMonth":"Previous Month","nextMonth":"Next Month","months":{"shorthand":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"longhand":["January","February","March","April","May","June","July","August","September","October","November","December"]},"weekdays":{"longhand":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"shorthand":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]},"daysInMonth":[31,28,31,30,31,30,31,31,30,31,30,31],"rangeSeparator":" to ","weekAbbreviation":"Wk","scrollTitle":"Scroll to increment","toggleTitle":"Click to toggle","amPM":["AM","PM"],"yearAriaLabel":"Year","firstDayOfWeek":1},"pro_version":"","fluentform_version":"5.1.11","force_init":"","stepAnimationDuration":"350","upload_completed_txt":"100% Completed","upload_start_txt":"0% Completed","uploading_txt":"Uploading","choice_js_vars":{"noResultsText":"No results found","loadingText":"Loading...","noChoicesText":"No choices to choose from","itemSelectText":"Press to select","maxItemText":"Only %%maxItemCount%% options can be added"},"input_mask_vars":{"clearIfNotMatch":false}};
+/* ]]> */
+
+
+
+
+
+
+
+
+
+
+        
+
+            jQuery(document).ready(oxygen_init_counter);
+            function oxygen_init_counter($) {
+                
+               var config = {
+                    root: null,
+                    rootMargin: '0px',
+                    threshold: 1
+                };
+                
+                function callback(entries, observer){
+                  entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+
+                        let $this = $(entry.target),
+                            $end = $this.attr('data-end');
+                        
+                        const options = {
+                                  startVal: $this.attr('data-start'),
+                                  decimalPlaces: $this.attr('data-decimals'),
+                                  duration: $this.attr('data-duration'),
+                                  useEasing: $this.attr('data-easing'),
+                                  useGrouping: $this.attr('data-grouping'),
+                                  separator: $this.attr('data-separator'),
+                                  decimal: $this.attr('data-decimal'),
+                                  smartEasingThreshold: $this.attr('data-threshold'),
+                                  smartEasingAmount: $this.attr('data-amount'),
+                                };
+                            
+                        const numAnim = new countUp.CountUp(entry.target, $end, options);
+                        if (!countUp.error) {
+                          numAnim.start()
+                        } else {
+                          console.error(countUp.error);
+                        }
+                        observer.unobserve(entry.target);
+                    }
+                  }
+                )};
+                                  
+                var observer = new IntersectionObserver(callback,config);
+                var counters = document.querySelectorAll('.oxy-counter_digit'); 
+                counters.forEach(counter => {
+                    observer.observe(counter);
+                });                  
+        
+            }
+                
+        
+
+    const Header = document.querySelector("header");
+
+// construct an instance of Headroom, passing the header elemen.
+const headroom = new Headroom(Header, {
+  offset: 0,
+  tolerance: {
+    up: 0,
+    down: 0
+  },
+  classes: {
+    initial: "header--fixed",
+    pinned: "slideDown",
+    unpinned: "slideUp",
+    top: "top",
+    notTop: "not-top"
+  }
+});
+
+// initialise
+headroom.init();
+
+// When the page is at the top, remove the slideDown class.
+window.addEventListener("scroll", () => {
+  if (window.pageYOffset === 0) {
+    Header.classList.remove("slideDown");
+  }
+});
+.header--fixed {
+  position: fixed!important;
+  top: 0;
+  width: 100%;
+  z-index: 10; 
+}
+
+/* Other classes for animation and responsiveness */
+
+.header--fixed.slideDown.not-top,
+.header--fixed.slideUp.not-top,
+.header--fixed.slideDown.top,
+.header--fixed.slideUp.top {
+  transition: transform 0.3s ease-in-out;
+}
+
+.header--fixed.slideDown.not-top,
+.header--fixed.slideDown.top {
+  transform: translateY(0);
+  background-color:var(--secondary-dark)!important;
+}
+
+.header--fixed.slideUp.not-top,
+.header--fixed.slideUp.top {
+  transform: translateY(-100%);
+}
+
+/* Main content top padding */
+.main-content {
+  padding-top: 70px; /* Adjust this value based on the header height */
+}
+ 
+
+!function(t){"function"==typeof define&&define.amd?define(t):t()}(function(){var t,e;!function(){var t=[],e=["click","mouseover","keydown","touchstart","touchmove","wheel"],n=document.querySelectorAll("script[data-src]"),r=document.querySelectorAll("link[data-href]");if(n.length||r.length){var i=function(e){return t.push(e)};document.addEventListener("click",i,{passive:!0});var a=setTimeout(c,10000);e.forEach(function(t){window.addEventListener(t,c,{passive:!0})})}function o(e){var r=n[e];r.onload=function(){if(e>=n.length-1)return window.dispatchEvent(new Event("DOMContentLoaded")),window.dispatchEvent(new Event("load")),document.removeEventListener("click",i),void t.forEach(function(t){var e=new MouseEvent("click",{view:t.view,bubbles:!0,cancelable:!0});t.target.dispatchEvent(e)});o(e+1)},r.src=r.getAttribute("data-src")}function c(){clearTimeout(a),e.forEach(function(t){window.removeEventListener(t,c,{passive:!0})}),n.forEach(function(t){var e=t.getAttribute("data-src");if(!e.startsWith("data:")){var n=document.createElement("link");n.rel="preload",n.as="script",n.href=e,document.head.appendChild(n)}}),n.length&&o(0),r.forEach(function(t){t.href=t.getAttribute("data-href")})}}(),t=window.devicePixelRatio>1?2:1,document.querySelectorAll("img[data-origin-src]").forEach(function(e){var n=100*Math.ceil(e.offsetWidth*t/100),r=e.getAttribute("data-origin-src");e.src=r+"?width="+n}),e=new IntersectionObserver(function(t){t.forEach(function(t){t.isIntersecting&&(e.unobserve(t.target),t.target.getAttribute("data-lazy-attributes").split(",").forEach(function(e){var n=t.target.getAttribute("data-lazy-".concat(e));t.target.setAttribute(e,n)}))})},{rootMargin:"300px"}),document.querySelectorAll("[data-lazy-method='viewport']").forEach(function(t){e.observe(t)})});
